@@ -24,3 +24,10 @@ El aire de Estados unidos se encuentra por lo general dentro de los niveles acep
 El estado con el aire mas limpio de Estados Unidos es Alaska:
 
 ![alaska](https://github.com/DiegoCefalo/AirPollutionAndPopulation/blob/main/img/gr%C3%A1fico4.jpg)
+
+ ## Documentación de módulos utilizados
+ * [Pandas](https://pandas.pydata.org/docs/)
+ * [Seaborn](https://seaborn.pydata.org/)
+ * [Matplotlib](https://matplotlib.org/stable/index.html)
+ * [Regular Expressions](https://docs.python.org/3/library/re.html)
+ * [Requests](https://docs.python-requests.org/en/master/)
