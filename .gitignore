@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Extra
+40-years-of-air-quality-index-from-the-epa-yearly.zip
+aqi_yearly_1980_to_2021.csv
